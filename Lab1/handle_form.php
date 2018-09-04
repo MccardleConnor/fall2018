@@ -5,6 +5,7 @@
 	<title>Form Feedback</title>
 </head>
 <body>
+
 <?php # Script 2.5 - handle_form.php #4
 
 // Print the submitted information:
